@@ -200,10 +200,11 @@ Tips: DO NOT forget to reset the parameter 'iters' (that counts iteration) in UN
 If you find this repo is useful, please consider citing our paper:
 ```BibTeX
 @inproceedings{yang2022unified,
-    title={Unified Normalization for Accelerating and Stabilizing Transformers}, 
-    author={Yang, Qiming and Zhang, Kai and Lan, Chaoxiang and Yang, Zhi and Li, Zheyang and Tan, Wenming and Xiao, Jun and Pu, Shiliang},
-    booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
-    year={2022},
+  title={Unified Normalization for Accelerating and Stabilizing Transformers},
+  author={Yang, Qiming and Zhang, Kai and Lan, Chaoxiang and Yang, Zhi and Li, Zheyang and Tan, Wenming and Xiao, Jun and Pu, Shiliang},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+  pages={4445--4455},
+  year={2022}
 }
 ```
 
